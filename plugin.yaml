@@ -1,0 +1,6 @@
+plugin:
+    name: 'enovision.intervention::lang.plugin.name'
+    description: 'enovision.intervention::lang.plugin.description'
+    author: Enovision
+    icon: oc-icon-image
+    homepage: ''
